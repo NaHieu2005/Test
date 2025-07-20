@@ -1,0 +1,8 @@
+[core]
+    remote = localremote
+['remote "gdrive_remote"']
+    url = gdrive://10ld810nV5P843yhcoANIkbMlKawhkN5k
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = C:/Users/ADMIN/Downloads/dvc-storage-465908-ee308dea632c.json
+['remote "localremote"']
+    url = F:/dvc-remote
